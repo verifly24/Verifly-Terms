@@ -69,7 +69,7 @@ If a dispute cannot be resolved informally, you agree that any dispute arising f
 
 ## 8. Privacy Policy
 
-Our Privacy Policy, available at [TBD], is incorporated into these Terms by reference.
+Our Privacy Policy, available at https://github.com/verifly24/Verifly-Terms/blob/main/Privacy%20Policy%20for%20Verifly.md, is incorporated into these Terms by reference.
 
 ## 9. Modifications to the Services
 
